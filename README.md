@@ -7,13 +7,6 @@ I'm **Enes**, an aspiring frontend developer on a journey to master the magical 
 
 Right now, I'm focusing on building a strong foundation in **HTML**, **CSS**, and **JavaScript**. My goal is to get comfortable with core concepts and gradually move into modern frameworks like **React** in the future.
 
-## 🧩 What's inside?
-
-- `index.html` → Main HTML structure  
-- `style-guide.md` → Style and design references  
-- `preview.jpg` → Screenshot/preview of the project  
-- `recipePage/` → All project files neatly organized
-
 ## 💻 Technologies Used
 
 - HTML5  
